@@ -24,7 +24,6 @@ RasBot is a ROS 2 mobile robot built using a Raspberry Pi 4, ESP32, and Slamtec 
 
 - [x] Ubuntu 24.04 installed
 - [x] ROS 2 Jazzy installed
-- [x] GitHub repository created
 - [ ] RPLIDAR C1 integration
 - [ ] Motor control with ESP32
 - [ ] SLAM mapping
